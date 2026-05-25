@@ -4,9 +4,16 @@ Desenvolvedor em evolução apaixonado por tecnologia, programação e criação
 
 Atualmente estudo e desenvolvo projetos utilizando:
 
-* HTML
-* CSS
-* Python
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+</div>            
+          
 
 ## Sobre mim
 
@@ -21,7 +28,7 @@ Busco evoluir constantemente como desenvolvedor, criando aplicações simples, �
 
 ## Contato
 
-* GitHub: SeuGitHubAqui
-* Instagram: SeuInstagramAqui
-* Email: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
+* linkedin: SeuInstagramAqui
+* Email: [Marcosgfjtech@gamil.com](mailto:Marcosgfjtech@gamil.com)
+
 
