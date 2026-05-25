@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou Marcos Gomes
 
-<!--
-**marcos-0000/marcos-0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em evolução apaixonado por tecnologia, programação e criação de soluções digitais.
 
-Here are some ideas to get you started:
+Atualmente estudo e desenvolvo projetos utilizando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML
+* CSS
+* Python
+
+## Sobre mim
+
+* Criando projetos web e sistemas funcionais
+* Explorando automação e análise de dados
+* Sempre aprendendo novas tecnologias
+* Transformando ideias em projetos reais
+
+## Objetivos
+
+Busco evoluir constantemente como desenvolvedor, criando aplicações simples, úteis e criativas.
+
+## Contato
+
+* GitHub: SeuGitHubAqui
+* Instagram: SeuInstagramAqui
+* Email: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
+
